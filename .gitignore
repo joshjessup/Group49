@@ -1,1 +1,5 @@
 _schematics/debug.log
+_schematics\__Previews
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
