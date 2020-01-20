@@ -2,6 +2,11 @@
 #include <OpenBCI_32bit_Library.h>
 #include <OpenBCI_32Bit_Library_Definitions.h>
 
+// Commands for starting:
+// 2345678
+// x1020001X
+// b
+
 void setup() {
   // Bring up the OpenBCI Board
   board.beginDebug();
