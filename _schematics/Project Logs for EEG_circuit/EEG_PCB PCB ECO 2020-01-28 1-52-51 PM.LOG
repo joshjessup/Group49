@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BIAS_DRV Pin=U9-1
+Removed Pin From Net: NetName=SRB1 Pin=U9-3
+Removed Pin From Net: NetName=SRB1out Pin=U9-6
+Removed Pin From Net: NetName=BIAS Pin=U9-8
+Added Pin To Net: NetName=SRB1 Pin=U9-1
+Added Pin To Net: NetName=BIAS_DRV Pin=U9-3
+Added Pin To Net: NetName=BIAS Pin=U9-6
+Added Pin To Net: NetName=SRB1out Pin=U9-8
