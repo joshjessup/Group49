@@ -1,0 +1,94 @@
+Added Component: Designator=U1(64-TQFP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "TQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Data Acquisition - Analog Front End (AFE)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/ads1299.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/ads1299.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=ADS1299&&fileType=pdf&src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=ADS1299&&fileType=pdf&src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=681922&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=681922&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.ti.com/litv/sbas499a?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.ti.com/litv/sbas499a?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001186463-da-01-en-IC_AFE_24BIT_16_ADS1299IPAGR_TQFP_64_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001186463-da-01-en-IC_AFE_24BIT_16_ADS1299IPAGR_TQFP_64_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conversion Rate"; Value = "16KS/s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ADS1299IPAGR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "42mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of A/D Converters"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Converters"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "7.14mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Consumption"; Value = "41mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=53.84, 10=50.577, 100=44.051 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resolution"; Value = "24b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sampling Rate"; Value = "16KS/s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signal to Noise Ratio (SNR)"; Value = "121dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1589"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-34818-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "General Purpose"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IN8P Pin=U1-2
+Added Pin To Net: NetName=IN7P Pin=U1-4
+Added Pin To Net: NetName=IN6P Pin=U1-6
+Added Pin To Net: NetName=IN5P Pin=U1-8
+Added Pin To Net: NetName=IN4P Pin=U1-10
+Added Pin To Net: NetName=IN3P Pin=U1-12
+Added Pin To Net: NetName=IN2P Pin=U1-14
+Added Pin To Net: NetName=IN1P Pin=U1-16
+Added Pin To Net: NetName=SRB1 Pin=U1-17
+Added Pin To Net: NetName=SRB2 Pin=U1-18
+Added Pin To Net: NetName=5V Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=5V Pin=U1-21
+Added Pin To Net: NetName=5V Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=ADS_VREFP Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=ADS_VCAP4 Pin=U1-26
+Added Pin To Net: NetName=ADS_VCAP1 Pin=U1-28
+Added Pin To Net: NetName=ADS_VCAP2 Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=MOSI Pin=U1-34
+Added Pin To Net: NetName=3V3 Pin=U1-35
+Added Pin To Net: NetName=RESET Pin=U1-36
+Added Pin To Net: NetName=CS1 Pin=U1-39
+Added Pin To Net: NetName=SCLK Pin=U1-40
+Added Pin To Net: NetName=GND Pin=U1-41
+Added Pin To Net: NetName=ADS_GPIO_1 Pin=U1-42
+Added Pin To Net: NetName=MISO Pin=U1-43
+Added Pin To Net: NetName=ADS_GPIO_2 Pin=U1-44
+Added Pin To Net: NetName=ADS_GPIO_3 Pin=U1-45
+Added Pin To Net: NetName=ADS_GPIO_4 Pin=U1-46
+Added Pin To Net: NetName=DRDY Pin=U1-47
+Added Pin To Net: NetName=3V3 Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=3V3 Pin=U1-50
+Added Pin To Net: NetName=GND Pin=U1-51
+Added Pin To Net: NetName=3V3 Pin=U1-52
+Added Pin To Net: NetName=GND Pin=U1-53
+Added Pin To Net: NetName=5V Pin=U1-54
+Added Pin To Net: NetName=ADS_VCAP3 Pin=U1-55
+Added Pin To Net: NetName=5V Pin=U1-56
+Added Pin To Net: NetName=GND Pin=U1-57
+Added Pin To Net: NetName=GND Pin=U1-58
+Added Pin To Net: NetName=5V Pin=U1-59
+Added Pin To Net: NetName=BIAS_REF Pin=U1-60
+Added Pin To Net: NetName=BIAS_INV Pin=U1-61
+Added Pin To Net: NetName=BIAS_IN Pin=U1-62
+Added Pin To Net: NetName=BIAS_DRV Pin=U1-63
