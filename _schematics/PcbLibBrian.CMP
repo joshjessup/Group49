@@ -1,0 +1,14 @@
+Component   : Cap_array
+PCB Library : PcbLibBrian.PcbLib
+Date        : 2020-01-28
+Time        : 3:25:11 PM
+
+
+
+Dimension : 5.867 x 4.47 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          2        0       1        1
+--------------------------------------------------------------------
+ Total                       0          2        0       1        1
