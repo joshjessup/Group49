@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=SRB1out Pin=J2-1
+Removed Pin From Net: NetName=SRB2out Pin=J2-2
+Removed Pin From Net: NetName=1P Pin=J2-3
+Removed Pin From Net: NetName=2P Pin=J2-4
+Removed Pin From Net: NetName=3P Pin=J2-5
+Removed Pin From Net: NetName=4P Pin=J2-6
+Removed Pin From Net: NetName=5P Pin=J2-7
+Removed Pin From Net: NetName=6P Pin=J2-8
+Removed Pin From Net: NetName=7P Pin=J2-9
+Removed Pin From Net: NetName=8P Pin=J2-10
+Removed Pin From Net: NetName=BIAS Pin=J2-11
+Removed Pin From Net: NetName=GND Pin=J2-12
+Added Component: Designator=J2(HDR1X12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/cad/1737268.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/cad/1737268.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.236inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61301211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.54, 10=0.454, 25=0.3792, 50=0.316, 100=0.287, 1000=0.261 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5323-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SRB1out Pin=J2-1
+Added Pin To Net: NetName=SRB2out Pin=J2-2
+Added Pin To Net: NetName=1P Pin=J2-3
+Added Pin To Net: NetName=2P Pin=J2-4
+Added Pin To Net: NetName=3P Pin=J2-5
+Added Pin To Net: NetName=4P Pin=J2-6
+Added Pin To Net: NetName=5P Pin=J2-7
+Added Pin To Net: NetName=6P Pin=J2-8
+Added Pin To Net: NetName=7P Pin=J2-9
+Added Pin To Net: NetName=8P Pin=J2-10
+Added Pin To Net: NetName=BIAS Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-12
