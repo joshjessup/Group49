@@ -207,6 +207,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDIVJFUF
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for EEG_circuit\Design Rule Check - EEG_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
