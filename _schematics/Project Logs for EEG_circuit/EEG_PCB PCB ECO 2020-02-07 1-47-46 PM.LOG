@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=U1 Old Footprint=64-TQFP New Footprint=64-TQFP
+Change Physical Footprint: Designator=U3 Old Footprint=Rarray New Footprint=Rarray
+Change Physical Footprint: Designator=U6 Old Footprint=Rarray New Footprint=Rarray
+Change Physical Footprint: Designator=U8 Old Footprint=SSOP28 New Footprint=SSOP28
+Change Physical Footprint: Designator=U9 Old Footprint=Rarray New Footprint=Rarray
