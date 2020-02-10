@@ -1,0 +1,3 @@
+Change Physical Footprint: Designator=J3 Old Footprint=SD_Conn New Footprint=SD_Conn
+Change Physical Footprint: Designator=U5 Old Footprint=Cap_array New Footprint=Cap_array
+Change Physical Footprint: Designator=U7 Old Footprint=Cap_array New Footprint=Cap_array
