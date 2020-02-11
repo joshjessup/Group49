@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [EEG_circuit.PrjPcb]
+   Generated File[Bill of Materials-EEG_circuit.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:45:39 AM On 2020-02-11
